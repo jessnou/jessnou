@@ -20,7 +20,5 @@ Hi! I am a backend developer from Orenburg, Russia.
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jessnou&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jessnou&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jessnou&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
