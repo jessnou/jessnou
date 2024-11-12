@@ -30,5 +30,3 @@ Hi! I am a backend/fullstack developer from Orenburg, Russia.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jessnou&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jessnou&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=jessnou&icon=0&color=12)](https://visitcount.itsvg.in)
