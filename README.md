@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi! I am a backend developer from Orenburg, Russia.
+
 
 
 # 💻 Tech Stack:
