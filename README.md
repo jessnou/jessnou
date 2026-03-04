@@ -17,7 +17,3 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" width="40" alt="docker logo"  />
 </div>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jessnou&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
